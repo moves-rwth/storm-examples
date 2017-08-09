@@ -1,6 +1,4 @@
-This repository contains benchmarks for storm. 
+This repository contains benchmarks for Storm.
 
-Please notice that storm also runs on the benchmarks accompanying prism.
-
-
+Please notice that Storm also runs on the benchmarks accompanying Prism.
 
